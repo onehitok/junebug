@@ -5,36 +5,73 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Junebug</title>
 	<atom:link href="https://onehitok.github.io/junebug/feed/" rel="self" type="application/rss+xml" />
-	<link>https://onehitok.github.io/junebug</link>
-	<description></description>
-	<lastBuildDate>Wed, 14 Jun 2023 10:52:33 +0000</lastBuildDate>
+	<link>https://onehitok.github.io/junebug/</link>
+	<description>Freshly Baked Sourdoughs &#124; Lots of Loaves</description>
+	<lastBuildDate>Sat, 17 Jun 2023 05:48:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://onehitok.github.io/junebug/wp-content/uploads/2023/06/Asset-7UserJourney.png</url>
+	<title>Junebug</title>
+	<link>https://onehitok.github.io/junebug/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
+		<title>About</title>
+		<link>https://onehitok.github.io/junebug/blog/about/</link>
+					<comments>https://onehitok.github.io/junebug/blog/about/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 17 Jun 2023 05:48:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://onehitok.github.io/junebug/?p=21</guid>
+
+					<description><![CDATA[<p>This is the about page</p>
+<p>The post <a rel="nofollow" href="https://onehitok.github.io/junebug/blog/about/">About</a> appeared first on <a rel="nofollow" href="https://onehitok.github.io/junebug">Junebug</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>This is the about page</p>
+<p>The post <a rel="nofollow" href="https://onehitok.github.io/junebug/blog/about/">About</a> appeared first on <a rel="nofollow" href="https://onehitok.github.io/junebug">Junebug</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://onehitok.github.io/junebug/blog/about/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
-		<link>https://onehitok.github.io/junebug/2023/06/14/hello-world/</link>
-					<comments>https://onehitok.github.io/junebug/2023/06/14/hello-world/#comments</comments>
+		<link>https://onehitok.github.io/junebug/blog/hello-world/</link>
+					<comments>https://onehitok.github.io/junebug/blog/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 14 Jun 2023 10:52:33 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://onehitok.github.io/junebug/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://onehitok.github.io/junebug/blog/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://onehitok.github.io/junebug">Junebug</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://onehitok.github.io/junebug/blog/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://onehitok.github.io/junebug">Junebug</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://onehitok.github.io/junebug/2023/06/14/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://onehitok.github.io/junebug/blog/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
